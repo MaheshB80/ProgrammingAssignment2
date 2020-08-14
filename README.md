@@ -103,3 +103,5 @@ In order to complete this assignment, you must do the following:
 ### Grading
 
 This assignment will be graded via peer assessment.
+
+##2020.08.13 updated cachematrix.R with assignment functions
