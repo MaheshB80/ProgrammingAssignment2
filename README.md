@@ -105,3 +105,4 @@ In order to complete this assignment, you must do the following:
 This assignment will be graded via peer assessment.
 
 ##2020.08.13 updated cachematrix.R with assignment functions
+## 4e5321a348a4f1b85dd9ec34f153b49c9438737a is the SHA-1
